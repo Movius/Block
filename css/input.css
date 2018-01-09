@@ -1,0 +1,31 @@
+/* line 4, C:/Users/gonxa/Desktop/prueba/block/sass/input.sass */
+body {
+  font: 100% "Montserrat", sans-serif;
+  color: #333;
+}
+
+/* line 8, C:/Users/gonxa/Desktop/prueba/block/sass/input.sass */
+.menu_ayuda {
+  font-weight: 600;
+  letter-spacing: 1px;
+  padding-top: 20px;
+}
+
+/* line 14, C:/Users/gonxa/Desktop/prueba/block/sass/input.sass */
+.header_busqueda input {
+  border: none;
+  border-bottom: 1px solid black;
+  letter-spacing: 3px;
+  width: 160px;
+}
+
+/* line 20, C:/Users/gonxa/Desktop/prueba/block/sass/input.sass */
+.header_busqueda button {
+  border: none;
+  background: none;
+  font-size: 15px;
+  position: relative;
+  top: 3px;
+}
+
+/*# sourceMappingURL=../css/input.map */

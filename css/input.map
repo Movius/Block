@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../sass/input.css",
+	"sources": [
+		"../sass/input.sass"
+	],
+	"sourcesContent": [
+		"$font-stack:    'Montserrat', sans-serif;\n$primary-color: #333;\n\nbody {\n  font: 100% $font-stack;\n  color: $primary-color; }\n\n.menu_ayuda {\n\tfont-weight: 600;\n\tletter-spacing: 1px;\n\tpadding-top: 20px; }\n\n.header_busqueda {\n\tinput {\n\t\tborder: none;\n\t\tborder-bottom: 1px solid black;\n\t\tletter-spacing: 3px;\n\t\twidth: 160px; }\n\n\tbutton {\n\t\tborder: none;\n\t\tbackground: none;\n\t\tfont-size: 15px;\n\t\tposition: relative;\n\t\ttop: 3px; } }\n\n\n"
+	],
+	"mappings": ";AAGA,AAAA,IAAI,CAAC;EACH,IAAI,EAAE,IAAI,CAJI,YAAY,EAAE,UAAU;EAKtC,KAAK,EAJS,IAAI;CAIM;;;AAE1B,AAAA,WAAW,CAAC;EACX,WAAW,EAAE,GAAI;EACjB,cAAc,EAAE,GAAI;EACpB,WAAW,EAAE,IAAK;CAAG;;;AAEtB,AACC,gBADe,CACf,KAAK,CAAC;EACL,MAAM,EAAE,IAAK;EACb,aAAa,EAAE,eAAgB;EAC/B,cAAc,EAAE,GAAI;EACpB,KAAK,EAAE,KAAM;CAAG;;;AALlB,AAOC,gBAPe,CAOf,MAAM,CAAC;EACN,MAAM,EAAE,IAAK;EACb,UAAU,EAAE,IAAK;EACjB,SAAS,EAAE,IAAK;EAChB,QAAQ,EAAE,QAAS;EACnB,GAAG,EAAE,GAAI;CAAG",
+	"names": []
+}
